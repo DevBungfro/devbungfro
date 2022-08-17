@@ -10,5 +10,5 @@ I program websites, apis, and many more things!
 
 You can contact me on the following options:
 
-Twitter: https://twitter.com/BungfroYt
+Twitter: https://twitter.com/BungfroYt <br>
 Discord: Bungfro#1519
