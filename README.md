@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey! I'm Bungfro!
 
-<!--
-**DevBungfro/devbungfro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack programmer. 
 
-Here are some iddeas to get you started:
+### What do I do? 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I program websites, apis, and many more things! 
+
+### How do I contact you?
+
+You can contact me on the following options:
+
+Twitter: https://twitter.com/BungfroYt
+Discord: Bungfro#1519
