@@ -13,3 +13,5 @@ You can contact me on the following options:
 
 Twitter: https://twitter.com/BungfroYt <br>
 Discord: Bungfro#1519
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbungfro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
