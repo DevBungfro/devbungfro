@@ -1,4 +1,5 @@
 ### Hey! I'm Bungfro!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devbungfro&show_icons=true&theme=dark)
 
 I'm a full-stack programmer. 
 
