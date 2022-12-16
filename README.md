@@ -11,7 +11,7 @@ I program websites, apis, and many more things!
 
 You can contact me on the following options:
 
-Twitter: https://twitter.com/BungfroYt <br>
+Twitter: https://twitter.com/Bungfro_ <br>
 Discord: Bungfro#1519
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbungfro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
