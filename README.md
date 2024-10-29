@@ -1,10 +1,24 @@
-Hey, I'm Bungfro! A Full-Stack developer that creates websites, bots, Minecraft Mods and more.
+<div align="center">
+  <img width=200 src="https://www.bungfro.com/static/media/FullLogo.50b66bac4433d082c335.png" />
+</div>
+<br />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devbungfro.devbungfro">
+</div>
 
-![](https://komarev.com/ghpvc/?username=devbungfro)
+<div align="center">
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&pause=1000&width=435%&center=true&vCenter=true&lines=Hey+there%2C+I'm+Bungfro;I'm+a+Full+Stack+Developer;Specializing+in+Lua+and+Javascript">
+  </a>
+</div>
 
-## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/696057348678090825)
-![Twitter Follow](https://img.shields.io/twitter/follow/bungfro_)
+##
+<div align="center">
+<p><a href="https://discord.com/users/696057348678090825"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
+<a href="https://x.com/Bungfro_"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&amp;logo=X&amp;logoColor=white" alt="X"></a>
+<a href="https://youtube.com/@Bungfro"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&amp;logo=YouTube&amp;logoColor=white" alt="YouTube"></a></p>
+
+</div>
 
 
 ## Github Stats:
