@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=devbungfro.devbungfro">
 </div>
-
+<br />
 <div align="center">
    <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&pause=1000&width=435%&center=true&vCenter=true&lines=Hey+there%2C+I'm+Bungfro;I'm+a+Full+Stack+Developer;Specializing+in+Lua+and+Javascript">
