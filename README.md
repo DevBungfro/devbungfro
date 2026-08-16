@@ -51,7 +51,7 @@
     <br>
     💬 Ask me anything about coding, scripting, or my projects
     <br>
-    📫 You can reach out to me by email at: bungfro@bungfro.com
+    📫 You can reach out to me by email at: support@bungfro.com
   </p>
   <br>
   <p>
