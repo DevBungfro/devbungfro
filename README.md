@@ -100,7 +100,7 @@
       <img width="390" align="left" src="https://streak-stats.demolab.com?user=DevBungfro&theme=react&hide_border=true&border_radius=6.1" alt="GitHub Streak">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=devbungfro&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
+      <img align="right" width="390" src="https://github-stats-extended.vercel.app/api?username=devbungfro&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
